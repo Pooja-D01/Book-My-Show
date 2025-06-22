@@ -77,7 +77,7 @@ To get started with this project, follow these steps:
 Clone the GitHub repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/BubalanShanmugam/BookMyShow.git
+git clone https://github.com/Pooja-D01/Book-My-Show.git
 ```
 **step 2: Compile the application:**
 ```bash
