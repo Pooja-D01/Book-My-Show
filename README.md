@@ -6,13 +6,13 @@
 
 ## 📊 Class Diagram
 
-"https://github.com/user-attachments/assets/aeca5f5a-77df-445f-a8b5-499ce1cb4e9
+"https://github.com/user-attachments/assets/aeca5f5a-77df-445f-a8b5-499ce1cb4e9"
 
 ---
 
 ## 🎬 Execution Video
 
-▶️ https://github.com/user-attachments/assets/10850b08-20cc-405c-bf81-24c3b63be3a0
+▶️ "https://github.com/user-attachments/assets/10850b08-20cc-405c-bf81-24c3b63be3a0"
 
 ---
 
