@@ -106,6 +106,6 @@ java BMS
 
 For any queries or feedback, contact to:
 
-- **Developer**: Rithani L R
-- **Email**: rithanirajkumar2@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/rithani-rajkumar-a53356282/
+- **Developer**: Pooja D
+- **Email**: poojasuresh8925@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/pooja-d-668810319/
